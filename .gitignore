@@ -41,5 +41,7 @@ dist/
 *.joblib
 
 # Figuras y gráficos
-/04_evaluation_reporting/reports/figure/
+/03_modeling/reports/figure/
 
+# Datos procesados
+/01_data_preparation/data/processed/
